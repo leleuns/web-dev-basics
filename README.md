@@ -1,5 +1,6 @@
 # MP 0: The Basics
 ### Due: Wednesday, Sep 08, 11:59PM
+Authors: Lawrence Smith
 
 ## Table of Contents
 1. [Assignment](#assignment)
